@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+
+<squad nick="D.I.G">
+<name>DIG GAMES</name>
+<email>ck@diguo520.com</email>
+<web>（www.diguo520.com）</web>
+<picture>logo.paa</picture>
+<title>DIG TEAM in Games for China</title>	
+
+
+<member id="76561198041281265" nick="=D.I.G= 鹰眼">
+<name>Leon</name>
+<email>399715564@qq.com</email>
+<icq>399715564</icq>
+<remark>DIG战队 AT-1 观察手 下士</remark>
+</member>
+
+
+<member id="（17位游戏UID）" nick="（游戏内角色名称）">
+<name>（游戏内战队显示名字）</name>
+<email>（该玩家的邮箱地址）</email>
+<icq>（该玩家的联系方式）</icq>
+<remark>（该玩家的职位、外号）</remark>
+</member>
+
+</squad>
